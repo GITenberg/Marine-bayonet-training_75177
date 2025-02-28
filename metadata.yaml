@@ -1,5 +1,8 @@
 _repo: Marine-bayonet-training_75177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75177-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. Marine Corps
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53138
     wikipedia: https://en.wikipedia.org/wiki/United_States_Marine_Corps
 description: '"FMFM 1-1"--Cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75177#Marine-bayonet-training
 gutenberg_issued: '2025-01-22'
 gutenberg_type: Text
 identifiers:
